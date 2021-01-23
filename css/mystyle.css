@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Potta+One&display=swap");
+
+body {
+  font-family: "Potta One", cursive;
+  font-weight: 300;
+  margin-left: 300px;
+  margin-top: 80px;
+  font-size: 30px;
+  background-color: darkslategray;
+}
+
+h1 {
+  display: inline-block;
+}
